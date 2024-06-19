@@ -1,0 +1,20 @@
+{
+  "name": "project-node",
+  "version": "1.0.0",
+  "description": "Projeto Node",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch server.js"
+  },
+  "author": "Sebastião Soares",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "prisma": "^5.15.1"
+  }
+}
+
+
